@@ -19,3 +19,7 @@ Este é um projeto de Ciência de Dados focado em identificar os principais moti
 * **Suporte:** Clientes que ligam mais de 4 vezes para o Call Center tendem a cancelar.
 * **Financeiro:** Atrasos no pagamento acima de 15 dias geram abandono do serviço.
 
+* ### 3. O que aprendi de difícil no projeto?
+* Como a base de dados é muito gigante (mais de 800 mil linhas), o meu computador não teve memória RAM suficiente na primeira tentativa e o VS Code chegou a travar (erro de falta de memória) e não conseguia salvar no GitHub
+* Para resolver isso, tive que ajustar o código para criar um modelo mais "leve": reduzi a base de dados para 100.000 linhas e reduzir o número de teste de árvore de decisão
+
